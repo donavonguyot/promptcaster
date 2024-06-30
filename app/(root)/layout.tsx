@@ -14,7 +14,6 @@ export default function RootLayout({
             <section className="flex min-h-screen flex-1 flex-col px-4 sm:px-14">
               <div className="mx-auto flex w-full max-w-5xl flex-col max-sm:px4">
                 <div className="flex h-16 items-center justify-between md:hidden">
-                  
                   <MobileNav />
                 </div>
               <div className="flex flex-col md:pb-14">
